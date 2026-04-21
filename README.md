@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Tomás 
 
-<!--
-**tomas010101/tomas010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico informático y estudiante de Licenciatura en Informática en la Universidad Nacional de La Plata (Argentina).
 
-Here are some ideas to get you started:
+Usuario de Linux (Ubuntu) desde hace más de un año y medio, con interés en entender el sistema en profundidad y usarlo como entorno principal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses
+- Linux / Sysadmin
+- Bajo nivel
+- Backend
+- Android
+- Game dev
+
+## Experiencia
+- Soporte técnico (usuarios, configuración, mantenimiento, testing)
+
+## Intereses open source
+Me interesa contribuir al software libre, tanto por su filosofía como por su valor técnico y comunitario.
+
+## Actualmente aprendiendo
+- C
+- Android
+- .NET
